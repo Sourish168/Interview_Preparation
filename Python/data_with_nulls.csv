@@ -1,0 +1,5 @@
+City,AQI,Status,Population
+Kolkata,100,Ok,300000.0
+Noida,203,Polluted,200000.0
+Bengaluru,147,NULL,NULL
+Hyderabad,196,Polluted,NULL
